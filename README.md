@@ -1,5 +1,9 @@
 # Nashville Software School Tribute Agency
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/22a55121-a23a-4779-a225-8c57432b7076/deploy-status)](https://app.netlify.com/sites/trinity-celebrity-tribute/deploys)
+
+[Preview Page](https://trinity-celebrity-tribute.netlify.com/career/career.html)
+
 Welcome fans.
 
 Your first task as a reporter of the NSSTA is to compile a tribute report on one of the many artists we are considering as a potential honoree winner. Listed below is the information we need to be gathered. Each one of you will be responsible for building a web page to present this information to our judges for consideration.
